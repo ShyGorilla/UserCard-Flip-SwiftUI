@@ -1,5 +1,5 @@
 <h1 align="center">
-UserCard-Flip SwiftUI
+UserCard Flip SwiftUI
 </h1>
 
 <p align="center">
@@ -11,18 +11,18 @@ UserCard-Flip SwiftUI
 </p>
 
 <p align="center">
-  <img src='https://img.shields.io/github/license/shygorilla/Lottie-Animation-SwiftUI'/>
-   <img src="https://img.shields.io/github/stars/shygorilla/Lottie-Animation-SwiftUI"/>
-   <img src="https://img.shields.io/github/forks/shygorilla/Lottie-Animation-SwiftUI"/>
+  <img src='https://img.shields.io/github/license/shygorilla/UserCard-Flip-SwiftUI'/>
+   <img src="https://img.shields.io/github/stars/shygorilla/UserCard-Flip-SwiftUI"/>
+   <img src="https://img.shields.io/github/forks/shygorilla/UserCard-Flip-SwiftUI"/>
 </p>
 
 <p align="center">
-    <a href="https://github.com/ShyGorilla/Lottie-Animation-SwiftUI/issues">Report Bug</a>
+    <a href="https://github.com/ShyGorilla/UserCard-Flip-SwiftUI/issues">Report Bug</a>
     ·
-    <a href="https://github.com/ShyGorilla/Lottie-Animation-SwiftUI/issues">Request Feature</a>
+    <a href="https://github.com/ShyGorilla/UserCard-Flip-SwiftUI/issues">Request Feature</a>
   </p>
 
 <p align="center">
-<img src='https://user-images.githubusercontent.com/73632576/129563914-df312333-fd18-4fa7-ad90-85411eda43ca.gif'/>
+<img src=''/>
 </p>
 
