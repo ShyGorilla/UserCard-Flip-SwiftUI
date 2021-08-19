@@ -14,6 +14,7 @@ UserCard Flip SwiftUI
   <img src='https://img.shields.io/github/license/shygorilla/UserCard-Flip-SwiftUI'/>
    <img src="https://img.shields.io/github/stars/shygorilla/UserCard-Flip-SwiftUI"/>
    <img src="https://img.shields.io/github/forks/shygorilla/UserCard-Flip-SwiftUI"/>
+  <img src="https://badges.pufler.dev/visits/shygorilla/UserCard-Flip-SwiftUI"/>
 </p>
 
 <p align="center">
