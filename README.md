@@ -21,6 +21,11 @@ UserCard Flip SwiftUI
     ·
     <a href="https://github.com/ShyGorilla/UserCard-Flip-SwiftUI/issues">Request Feature</a>
   </p>
+  
+  
+## Coding languages 💻
+
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 
 <p align="center">
 <img src='https://user-images.githubusercontent.com/73632576/130059154-00b54e51-5631-4773-845e-2062b6906839.gif'/>
