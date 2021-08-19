@@ -23,6 +23,6 @@ UserCard Flip SwiftUI
   </p>
 
 <p align="center">
-<img src=''/>
+<img src='https://user-images.githubusercontent.com/73632576/130059154-00b54e51-5631-4773-845e-2062b6906839.gif'/>
 </p>
 
